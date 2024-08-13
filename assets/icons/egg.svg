@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg3875" viewBox="0 0 318.28 436.36" version="1.0">
+  <g id="layer1" stroke-linejoin="round" transform="translate(-169.43 -88.467)" stroke="#000" stroke-width="2.5" fill="#fff">
+    <path id="path3181" d="m486.46 349.72c0 93.05-70.4 168.57-157.14 168.57s-157.14-75.52-157.14-168.57 70.4-260 157.14-260c86.74-0.003 157.14 166.95 157.14 260z"/>
+    <path id="path2388" d="m192.21 246.11c-13.67 38.56-21.53 77.85-21.53 108.91 0 93.05 70.41 168.56 157.16 168.56 86.74 0 157.15-75.51 157.15-168.56 0-25.82-4.01-58.04-13.69-90.09l-0.72 1.93-15.37-17.31-4.09 36.06-23.75-27.03s-8.19 80.24-8.19 85.16c0 4.91-32.75-77.79-32.75-77.79l-13.09 22.1-9-17.19-16.41 70.41-13.09-73.69-26.19 45.03-22.13-44.22-26.21 80.25-12.29-83.53-16.37 30.31-15.56-35.22-11.97 22.25-10.88-35.9-1.03-0.44z"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Easter egg (white whith fracture)</dc:title>
+        <dc:date>2008-03-12T17:15:28</dc:date>
+        <dc:description>An easter egg whith fracture... enjoy! :-)</dc:description>
+        <dc:source>http://openclipart.org/detail/15692/easter-egg-(white-whith-fracture)-by-mystica</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>mystica</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>easter</rdf:li>
+            <rdf:li>egg</rdf:li>
+            <rdf:li>holiday</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>png</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>svg</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
